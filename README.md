@@ -37,13 +37,13 @@ This chatbot can perform **web searches**, **calculations**, **weather updates**
 ## 📂 Project Structure  
 
 LangGraph_Agentic_Chatbot/
-│
-├── streamlit_frontend_tool.py
-├── langgraph_backend_tool.py
-├── chatbot.db
-├── .env
-├── requirements.txt
-└── README.md
+
+- streamlit_frontend_tool.py
+- langgraph_backend_tool.py
+- chatbot.db
+- .env
+- requirements.txt
+- README.md
 
 ### 1️. Clone the Repository  
 - git clone https://github.com/supra2001/LangGraph-Agentic-ChatBot.git
