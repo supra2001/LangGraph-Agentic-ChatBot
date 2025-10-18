@@ -49,7 +49,7 @@ LangGraph_Agentic_Chatbot/
 ### 2️. Create a Virtual Environment
 - python -m venv venv
 - venv\Scripts\activate     # On Windows
-# OR
+OR
 - source venv/bin/activate  # On macOS/Linux
 
 ### 3️. Install Dependencies
