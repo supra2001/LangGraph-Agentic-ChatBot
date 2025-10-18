@@ -1,4 +1,6 @@
-# 🧠 LangGraph Agentic Chatbot  
+# 🧠 LangGraph Agentic Chatbot 
+
+![Demo of LangGraph Chatbot](assets/demo.gif)
 
 An intelligent **multi-tool conversational assistant** built using **LangGraph**, **LangChain**, and **Streamlit**.  
 This chatbot can perform **web searches**, **calculations**, **weather updates**, **currency conversions**, and **stock lookups**, all while maintaining conversation history across sessions.  
