@@ -10,7 +10,8 @@ This chatbot can perform **web searches**, **calculations**, **weather updates**
 ## 🚀 Features  
 
 - **Conversational Memory:** Saves chat history using SQLite checkpoints.  
-- **Web Search:** Fetches live info using DuckDuckGo.  
+- **Web Search:** Fetches live info using DuckDuckGo. 
+- **Streaming Responses:** Assistant messages are streamed token-by-token for a more natural, real-time conversation experience.
 - **Weather Updates:** Retrieves live weather data via OpenWeather API.  
 - **Currency Conversion:** Converts between currencies using ExchangeRate API.  
 - **Stock Prices:** Displays real-time stock quotes using Alpha Vantage.  
