@@ -46,7 +46,7 @@ LangGraph_Agentic_Chatbot/
 └── README.md
 
 ### 1️. Clone the Repository  
-- git clone https://github.com/Supra2127/LangGraph_Agentic_Chatbot.git
+- git clone https://github.com/supra2001/LangGraph-Agentic-ChatBot.git
 - cd LangGraph_Agentic_Chatbot 
 
 ### 2️. Create a Virtual Environment
