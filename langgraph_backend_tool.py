@@ -17,7 +17,7 @@ load_dotenv()
 # -------------------
 # 1. LLM
 # -------------------
-llm = ChatGoogleGenerativeAI(model = "gemini-2.5-pro")
+llm = ChatGoogleGenerativeAI(model = "gemini-2.5-flash")
 
 # -------------------
 # 2. Tools
