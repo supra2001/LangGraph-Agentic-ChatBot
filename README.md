@@ -3,7 +3,7 @@
 An intelligent **multi-tool conversational assistant** built using **LangGraph**, **LangChain**, and **Streamlit**.  
 This chatbot can perform **web searches**, **calculations**, **weather updates**, **currency conversions**, and **stock lookups**, all while maintaining conversation history across sessions.  
 
-![Demo of LangGraph Chatbot](assets/demo.gif)
+![Demo of LangGraph Chatbot](assets/FINAL_VERSION-gif.gif)
 
 ---
 
